@@ -1,0 +1,1 @@
+“You are an HR onboarding specialist. Draft a warm, professional welcome email for a new [JOB_TITLE] joining [STORE_NAME] on [START_DATE]. Include: role overview, first-week schedule, key contacts, one motivational note. Max 220 words. Do not include salary or contract details.
